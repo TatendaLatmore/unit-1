@@ -13,4 +13,4 @@ let first_name = "Santa";
 var last_name = "Claws";
 var last_name = "Claus";
 
-console.log("I still believe in",first_name,last_name+".")
+console.log("I still believe in",first_name,last_name+".");
