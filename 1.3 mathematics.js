@@ -6,7 +6,7 @@ let fahrenheit = 0;
 
 fahrenheit = (celsius * 9/5) + 32;
 
-console.log(fahrenheit)
+console.log(fahrenheit);
 
 //Part 2
 
